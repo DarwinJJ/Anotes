@@ -1,0 +1,38 @@
+#wrapper{
+    margin: 0px auto;
+    width: 1000px;
+    height: 1000px;
+    background-color: lightgrey;
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+#add{
+    box-sizing: border-box;
+    width:950px;
+    height: 80px;
+    background-color: white;
+    border: 1px solid black;
+    padding:25px;
+}
+#disp{
+    box-sizing: border-box;
+    width:950px;
+    height: 780px;
+    background-color: white;
+    border: 1px solid black;
+    padding:25px;
+    overflow-y: scroll;
+}
+.quote{
+    height: 100px;
+    width: 880px;
+    background-color: white;
+    border: 1px solid black;
+}
+.top{
+    height: 10px;
+    width: 100%;
+    text-align: right;
+}
